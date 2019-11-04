@@ -1,4 +1,4 @@
-package com.spartaglobal.JacksonRates;
+package com.spartaglobal;
 
 import static org.junit.Assert.assertTrue;
 
